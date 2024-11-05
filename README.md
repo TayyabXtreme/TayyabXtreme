@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD TAYYAB</h1>
 <h3 align="center">Creating smarter web experiences using artificial intelligence.</h3>
 
-<img align="right" alt="coading" with="400"  src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
+<img align="right" alt="coading" with="300" height="300"  src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 - 🔭 I’m currently working on **AIC ADMIN PANAL**
 

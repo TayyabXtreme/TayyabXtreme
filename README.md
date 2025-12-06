@@ -6,11 +6,10 @@
 
 <img align="right" alt="coading" with="300" height="300"  src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
-- 🔭 I’m currently working on **AIC ADMIN PANAL**
+- 🔭 I’m currently working on **StartUp**
 
 - 🌱 I’m currently learning **GEN AI**
 
-- 👯 I’m looking to collaborate on [HacktoberFest-Hackathon](https://github.com/muzammilkhattri/HacktoberFest-Hackathon)
 
 - 👨‍💻 All of my projects are available at [https://euphonious-zabaione-023c69.netlify.app/](https://euphonious-zabaione-023c69.netlify.app/)
 

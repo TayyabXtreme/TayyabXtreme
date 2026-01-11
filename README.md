@@ -104,22 +104,29 @@
 
 ## 📈 GitHub Stats
 
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TayyabXtreme&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabXtreme&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" height="180" alt="languages graph" />
 </div>
 
+
 <br />
 
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TayyabXtreme&theme=dark&hide_border=true" alt="streak stats" />
+  <!-- using demolab for better reliability -->
+  <img src="https://streak-stats.demolab.com/?user=TayyabXtreme&theme=dark&hide_border=true" alt="streak stats" />
 </div>
 
 <br />
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TayyabXtreme&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+
 
 ---
 

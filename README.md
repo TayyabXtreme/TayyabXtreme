@@ -6,7 +6,7 @@
 
 ![Animated technology stack](assets/stack.svg?v=2)
 
-![Identity dashboard](assets/id-dashboard.svg?v=1)
+![Identity dashboard](assets/id-dashboard.svg?v=2)
 
 </div>
 

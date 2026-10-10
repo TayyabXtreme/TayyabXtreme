@@ -1,0 +1,40 @@
+{
+  "recoveredFrom": "tayyab_github_profile (12).zip",
+  "date": "2026-10-10",
+  "portraits": {
+    "assets/id.png": "2e29da10ea096b4a432c73c1a3b668d15cc93b57896864f2ebc6c832efb4000a",
+    "assets/right_pointing.png": "3b7e1d55a7849faf834f5b07dd221eaf9ee593dc643159ccbff96df87226d828"
+  },
+  "repositories": [
+    {
+      "url": "https://github.com/TayyabXtreme/AI_Project_Medecine_Recommendation_System",
+      "status": "public repository confirmed",
+      "full_name": "TayyabXtreme/AI_Project_Medecine_Recommendation_System",
+      "checked": "2026-10-10"
+    },
+    {
+      "url": "https://github.com/TayyabXtreme/Machine_Learning",
+      "status": "public repository confirmed",
+      "full_name": "TayyabXtreme/Machine_Learning",
+      "checked": "2026-10-10"
+    },
+    {
+      "url": "https://github.com/TayyabXtreme/XtremChat",
+      "status": "public repository confirmed",
+      "full_name": "TayyabXtreme/XtremChat",
+      "checked": "2026-10-10"
+    },
+    {
+      "url": "https://github.com/TayyabXtreme/Zentry_Clone",
+      "status": "public repository confirmed",
+      "full_name": "TayyabXtreme/Zentry_Clone",
+      "checked": "2026-10-10"
+    },
+    {
+      "url": "https://github.com/TayyabXtreme/XGitFinder",
+      "status": "public repository confirmed",
+      "full_name": "TayyabXtreme/XGitFinder",
+      "checked": "2026-10-10"
+    }
+  ]
+}
